@@ -1,0 +1,8 @@
+{
+  "uuid": "%uuid%",
+  "name": "Testing addon",
+  "mainClass": "net.labymod.addons.Wector11211.TestAddon",
+  "version": 1,
+  "author": "Wector11211",
+  "category": 2
+}
